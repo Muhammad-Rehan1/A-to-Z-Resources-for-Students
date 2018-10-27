@@ -244,6 +244,7 @@ Instructions :
 | 213 | **Carmelo Ventimiglia** | Italy | Web&App developer | [LinkedIn](https://www.linkedin.com/in/carmelo-ventimiglia/) |
 | 214 | **Dhairya** | India | Engineering Student-beginner developer- machine learning | [Github](https://github.com/arLong-98)
 
+| 215 | **Muhammad Rehan** | Pakistan | Student | [GitHub](https://github.com/Muhammad-Rehan1) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
